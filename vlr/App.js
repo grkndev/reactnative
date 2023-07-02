@@ -1,19 +1,24 @@
 import { useCallback } from "react";
 import { Text, View, StyleSheet } from "react-native";
 import { useFonts } from "expo-font";
-import * as SplashScreen from "expo-splash-screen";
+import { useColorScheme } from "nativewind"
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { NavigationContainer } from "@react-navigation/native";
 // import AppLoading from "expo-app-loading";
 import Main from "./src/screen/Main";
-
+import Matches from "./src/screen/Matches";
 import Icons from "./src/components/icons";
+import Rankings from "./src/screen/Rankings";
+import Events from "./src/screen/Events";
+
 export default function App() {
   const Tab = createBottomTabNavigator();
+  const { colorScheme, toggleColorScheme } = useColorScheme();
 
   const [fontsLoaded] = useFonts({
     Montserrat: require("./src/assest/fonts/Montserrat.ttf"),
     "Montserrat-Bold": require("./src/assest/fonts/Montserrat-Bold.ttf"),
+    "Valorant": require("./src/assest/fonts/valorant.ttf"),
   });
 
   if (!fontsLoaded) {
@@ -27,14 +32,16 @@ export default function App() {
           headerShown: false,
           tabBarShowLabel: false,
           tabBarStyle: {
+            // backgroundColor: colorScheme === "dark" ? "#1F1F1F" : "#fff",            
+            backgroundColor: colorScheme === "dark" ? "#6B47C5" : "#000",
             position: "absolute",
-            bottom: 10,
-            left: 10,
-            right: 10,
-            elevation: 20,
-            backgroundColor: "#000",
-            borderRadius: 15,
+            borderTopWidth: 0,
+            borderTopLeftRadius: 15,
+            borderTopRightRadius: 15,
             height: 90,
+            shadowColor: "#6B47C5",
+            
+            
           },
         }}
       >
@@ -60,7 +67,7 @@ export default function App() {
 
         <Tab.Screen
           name="Maçlar"
-          component={Main}
+          component={Matches}
           options={{
             tabBarIcon: ({ focused }) => (
               <View className="justify-center items-center">
@@ -80,7 +87,7 @@ export default function App() {
 
         <Tab.Screen
           name="Etkinlikler"
-          component={Main}
+          component={Events}
           options={{
             tabBarIcon: ({ focused }) => (
               <View className="justify-center items-center">
@@ -100,7 +107,7 @@ export default function App() {
 
         <Tab.Screen
           name="En iyiler"
-          component={Main}
+          component={Rankings}
           options={{
             tabBarIcon: ({ focused }) => (
               <View className="justify-center items-center">
@@ -117,7 +124,7 @@ export default function App() {
             ),
           }}
         />
-
+{/* 
         <Tab.Screen
           name="Profil"
           component={Main}
@@ -136,7 +143,7 @@ export default function App() {
               </View>
             ),
           }}
-        />
+        /> */}
       </Tab.Navigator>
     </NavigationContainer>
   );

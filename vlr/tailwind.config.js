@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  
   content: [
     "./App.{js,jsx,ts,tsx}",
     "./src/screen/**/*.{js,jsx,ts,tsx}",
@@ -13,6 +14,9 @@ module.exports = {
         ],
         montbold: [
           "Montserrat-Bold",
+        ],
+        valo: [
+          "Valorant",
         ],
       },
       colors: {

@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Valorant Tournamets",
-    "slug": "Valorant Tournamets",
+    "name": "valoranttournaments",
+    "slug": "Valorant Tournaments",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#180f14"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -20,7 +20,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#180f14"
       }
     },
     "web": {

@@ -21,9 +21,9 @@ const Matches = (props) => {
   return (
     <View className={"mt-4"} {...props}>
       <Text
-        className={"text-black text-lg mb-2 ml-4 font-normal font-montbold"}
+        className={"text-black dark:text-white text-lg mb-2 ml-4 font-normal font-montbold"}
       >
-        ETKİLNİKLER
+        ETKİNLİKLER
       </Text>
       <FlatList
         data={matchesData}
