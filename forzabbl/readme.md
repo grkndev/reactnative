@@ -23,7 +23,7 @@
   <kbd>
       <h1 align="center" style="font-size: 36px"> Main Screen  </h1><br />
       <img style="width:280px; height:600px" src="./forzabbl/Main.jpg" />
-      <img style="width:280px; height:600px" src="./forzabbl/Main.jpg" />
+      <img style="width:280px; height:600px" src="https://pbs.twimg.com/media/F2CAq0WWUAAAMQ3?format=jpg&name=large" />
   </kbd>
   <kbd>
     <h1 align="center" style="font-size: 36px"> Best Moments Screen</h1><br />
