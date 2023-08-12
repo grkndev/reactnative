@@ -3,7 +3,7 @@
     VLR
   <img src="./grknai/icon.png" style="width:30px">
   <br>
-  ***VALORANT Tournaments App*** powered wtih VLR.GG API
+  VALORANT Tournaments App powered wtih VLR.GG API
 </h1>
 
 <br />
