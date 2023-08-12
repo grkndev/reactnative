@@ -12,7 +12,7 @@
 <img style="width:150px; height:300px" src="./grknai/Main.jpg" />
 
   <div>
-    # __Chat Screen__
+    <p style="font-size:36px; font-weight:bold;">Chat Screen</p>
     <img style="width:150px; height:300px" src="./grknai/Chat.jpg" />
   </div>
 </div>
