@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="./grknai/icon.png" style="width:30px">
+  <img src="./forzabbl/icon.png" style="width:50px">
     #FORZABBL
-  <img src="./grknai/icon.png" style="width:30px">
+  <img src="./forzabbl/icon.png" style="width:50px">
   <br>
   Esports App for BBL Esports
 </h1>
@@ -44,11 +44,11 @@
 
 ---
 <p align="center">
-  <img src="./forzabbl/icon.png" style="width:10px">
+  <img src="./forzabbl/icon.png" style="width:30px">
   Created, Designed, Developed by
   <a target="_blank" href="https://github.com/GweepCreative">
     Gürkan
   </a>
-  <img src="./forzabbl/icon.png" style="width:10px">
+  <img src="./forzabbl/icon.png" style="width:30px">
 </p>
 
