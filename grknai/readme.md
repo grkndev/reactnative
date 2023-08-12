@@ -4,4 +4,4 @@
 
 
 __# Splash Screen__
-<img src="./grknai/Splash.jpg" />
+<img style="width:100px; height:100px" src="./grknai/Splash.jpg" />
