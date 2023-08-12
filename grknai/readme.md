@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="./grknai/icon.png" style="width:30px">
-    RabeL Code
+    GRKN AI
   <img src="./grknai/icon.png" style="width:30px">
   <br>
   Chat App powered wtih OpenAI
