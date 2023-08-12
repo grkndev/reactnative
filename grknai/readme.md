@@ -3,5 +3,5 @@
 ## In this application, which uses **OpenAI** infrastructure, you can access **ChatGPT-3.5** and **GPT 4** versions and set up chats.
 
 
-__# Splash Screen__
-<img style="width:100px; height:100px" src="./grknai/Splash.jpg" />
+__# Splash Screen__ <br />
+<img style="width:50px; height:100px" src="./grknai/Splash.jpg" />
