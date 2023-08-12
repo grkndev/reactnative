@@ -18,29 +18,28 @@
 <div align="center" style="justify-content-items:center; display:flex; color:white; text-design:none;">
   <kbd>
     <h1 align="center" style="font-size: 36px"> Splash Screen  </h1><br />
-    <img style="width:250px; height:600px" src="./forzabbl/Splashg" />
+    <img style="width:280px; height:600px" src="./forzabbl/Splashg.jpg" />
   </kbd>
   <kbd>
       <h1 align="center" style="font-size: 36px"> Main Screen  </h1><br />
-      <img style="width:250px; height:600px" src="./forzabbl/Main.jpg" />
-      <img style="width:250px; height:600px" src="./forzabbl/Main.jpg" />
+      <img style="width:280px; height:600px" src="./forzabbl/Main.jpg" />
+      <img style="width:280px; height:600px" src="./forzabbl/Main.jpg" />
   </kbd>
   <kbd>
     <h1 align="center" style="font-size: 36px"> Best Moments Screen</h1><br />
-    <img style="width:250px; height:600px" src="./forzabbl/BestMoments.jpg" />
-    <img style="width:250px; height:600px" src="./forzabbl/BestMoments-Modal.jpg" />
+    <img style="width:280px; height:600px" src="./forzabbl/BestMoments.jpg" />
+    <img style="width:280px; height:600px" src="./forzabbl/BestMoments-Modal.jpg" />
   </kbd>
   <kbd>
     <h1 align="center" style="font-size: 36px"> Statistics Screen</h1><br />
-    <img style="width:250px; height:600px" src="./forzabbl/statistics.jpg" />
+    <img style="width:280px; height:600px" src="./forzabbl/statistics.jpg" />
   </kbd>
   <kbd>
     <h1 align="center" style="font-size: 36px"> Our Teams Screen</h1><br />
-    <img style="width:250px; height:600px" src="./forzabbl/teams.jpg" />
+    <img style="width:280px; height:600px" src="./forzabbl/teams.jpg" />
   </kbd>
-  <kbd>
-    <h1 align="center" style="font-size: 36px">More will be added soon</h1>
-  </kbd>
+  <br />
+  <h1 align="center" style="font-size: 36px">More will be added soon</h1>
 </div>
 
 ---
