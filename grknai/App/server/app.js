@@ -8,7 +8,7 @@ const mongoose = require("mongoose");
 mongoose.set("strictQuery", true);
 mongoose
   .connect(
-    "mongodb+srv://gweep:rootusergweep123@cluster0.jygrbxc.mongodb.net/grknai"
+    "YOUR-MONGODB-URL"
   )
   .then(() => {
     console.log("Connected to DB");
