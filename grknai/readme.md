@@ -30,9 +30,11 @@
 </div>
 
 ---
-<p align="center"><img src="./grknai/icon.png" style="width:10px">
+<p align="center">
+  <img src="./grknai/icon.png" style="width:10px">
   Created, Designed, Developed by
   <a target="_blank" href="https://github.com/GweepCreative">
     Gürkan
   </a>
+  <img src="./grknai/icon.png" style="width:10px">
 </p>
