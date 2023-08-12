@@ -8,22 +8,22 @@
 ## `🧑‍💻` Screens
 <div align="center" style="justify-content-items:center; display:flex; color:white; text-design:none;">
   <kbd>
-    <span> 
-  <p align="center"> Splash Screen  </p>
+    <div> 
+  <p align="center"> Splash Screen  </p><br />
     <img style="width:150px; height:300px" src="./grknai/Splash.jpg" />
 
-     </span>
+     </div>
   </kbd>
     <kbd>
- <span> <p align="center"> Main Screen  </p>
+ <div> <p align="center"> Main Screen  </p>
     <img style="width:150px; height:300px" src="./grknai/Main.jpg" />
- </span>
+ </div>
 </kbd>
   <kbd>
- <span>
+ <div>
     <p align="center"> Chat Screen</p>
     <img style="width:150px; height:300px" src="./grknai/Chat.jpg" />
- </span>
+ </div>
   
     </kbd>
 </div>
