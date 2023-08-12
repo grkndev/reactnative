@@ -1,0 +1,2 @@
+# Expo App
+# Used NativeWindCSS
