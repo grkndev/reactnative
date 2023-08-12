@@ -23,10 +23,6 @@
       <img style="width:300px; height:600px" src="./vlr/Dark-Main.jpg" />
       <img style="width:300px; height:600px" src="./vlr/Light-Main.jpg" />
   </kbd>
-  <kbd>
-    <h1 align="center" style="font-size: 36px"> BestOf Screen</h1><br />
-    <img style="width:300px; height:600px" src="./vlr/Dark-BestOf.jpg" />
-  </kbd>
    <kbd>
     <h1 align="center" style="font-size: 36px"> Matches Screen</h1><br />
     <img style="width:300px; height:600px" src="./vlr/Dark-Matches-Live.jpg" />
@@ -38,6 +34,10 @@
     <img style="width:300px; height:600px" src="./vlr/Dark-events.jpg" />
     <img style="width:300px; height:600px" src="./vlr/Dark-events-2.jpg" />
     <img style="width:300px; height:600px" src="./vlr/Dark-events-withModal.jpg" />
+  </kbd>
+  <kbd>
+    <h1 align="center" style="font-size: 36px"> BestOf Screen</h1><br />
+    <img style="width:300px; height:600px" src="./vlr/Dark-BestOf.jpg" />
   </kbd>
 </div>
 
