@@ -1,3 +1,13 @@
+<h1 align="center">
+  <img src="./grknai/icon.png" style="width:30px">
+    RabeL Code
+  <img src="./grknai/icon.png" style="width:30px">
+  <br>
+  Chat App powered wtih OpenAI
+</h1>
+
+<br />
+
 ## `✨` What is this?
 - ### this application is a **Chat App** application written in **Expo** and **React-Native**. <br /> In this application, which uses **OpenAI** infrastructure, you can access **ChatGPT-3.5** and **GPT 4** versions and set up chats.
 
@@ -20,7 +30,7 @@
 </div>
 
 ---
-<p align="center"><img src="https://i.hizliresim.com/bw1f5bs.png" style="width:10px">
+<p align="center"><img src="./grknai/icon.png" style="width:10px">
   Created, Designed, Developed by
   <a target="_blank" href="https://github.com/GweepCreative">
     Gürkan
