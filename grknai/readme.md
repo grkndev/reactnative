@@ -1,22 +1,20 @@
 ## `✨` What is this?
-- ### Hello,
-### this application is a **Chat App** application written in **Expo** and **React-Native**.
-### In this application, which uses **OpenAI** infrastructure, you can access **ChatGPT-3.5** and **GPT 4** versions and set up chats.
+- ### this application is a **Chat App** application written in **Expo** and **React-Native**. <br /> In this application, which uses **OpenAI** infrastructure, you can access **ChatGPT-3.5** and **GPT 4** versions and set up chats.
 
 <br />
 
 ## `🧑‍💻` Screens
 <div align="center" style="justify-content-items:center; display:flex; color:white; text-design:none;">
   <kbd>
-    <p align="center" style="font-size: 36px"> Splash Screen  </p><br />
+    <h1 align="center" style="font-size: 36px"> Splash Screen  </h1><br />
     <img style="width:300px; height:600px" src="./grknai/Splash.jpg" />
   </kbd>
   <kbd>
-      <p align="center" style="font-size: 36px"> Main Screen  </p><br />
+      <h1 align="center" style="font-size: 36px"> Main Screen  </h1><br />
       <img style="width:300px; height:600px" src="./grknai/Main.jpg" />
   </kbd>
   <kbd>
-    <p align="center" style="font-size: 36px"> Chat Screen</p><br />
+    <h1 align="center" style="font-size: 36px"> Chat Screen</h1><br />
     <img style="width:300px; height:600px" src="./grknai/Chat.jpg" />
   </kbd>
 </div>
