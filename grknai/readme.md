@@ -9,15 +9,15 @@
 <div align="center" style="justify-content-items:center; display:flex; color:white; text-design:none;">
   <kbd>
     <p align="center"> Splash Screen  </p><br />
-    <img style="width:150px; height:300px" src="./grknai/Splash.jpg" />
+    <img style="width:300px; height:600px" src="./grknai/Splash.jpg" />
   </kbd>
   <kbd>
-      <p align="center"> Main Screen  </p><br />
-      <img style="width:150px; height:300px" src="./grknai/Main.jpg" />
+      <p align="center" size="36px"> Main Screen  </p><br />
+      <img style="width:300px; height:600px" src="./grknai/Main.jpg" />
   </kbd>
   <kbd>
     <p align="center"> Chat Screen</p><br />
-    <img style="width:150px; height:300px" src="./grknai/Chat.jpg" />
+    <img style="width:300px; height:600px" src="./grknai/Chat.jpg" />
   </kbd>
 </div>
 
