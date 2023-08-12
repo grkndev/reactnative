@@ -8,21 +8,25 @@
 ## `🧑‍💻` Screens
 <div align="center" style="justify-content-items:center; display:flex; color:white; text-design:none;">
   <kbd>
-  <p align="center"> Splash Screen
+    <span> 
+  <p align="center"> Splash Screen  </p>
     <img style="width:150px; height:300px" src="./grknai/Splash.jpg" />
-  </p>
+
+     </span>
   </kbd>
     <kbd>
-  <p align="center"> Main Screen
+ <span> <p align="center"> Main Screen  </p>
     <img style="width:150px; height:300px" src="./grknai/Main.jpg" />
-  </p>
+ </span>
 </kbd>
   <kbd>
-  <p align="center"> Chat Screen
+ <span>
+    <p align="center"> Chat Screen</p>
     <img style="width:150px; height:300px" src="./grknai/Chat.jpg" />
-  </p>
+ </span>
+  
     </kbd>
 </div>
 
 ---
-<p align="center"><img src="https://i.hizliresim.com/bw1f5bs.png" style="width:10px"> <a target="_blank" href="https://github.com/GweepCreative">Gürkan</a> tarafından Oluşturuldu, Tasarlandı, Geliştirildi.</p>
+<p align="center"><img src="https://i.hizliresim.com/bw1f5bs.png" style="width:10px">Created, Designed, Developed by <a target="_blank" href="https://github.com/GweepCreative">Gürkan</a></p>
