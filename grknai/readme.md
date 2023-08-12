@@ -12,11 +12,11 @@
     <img style="width:150px; height:300px" src="./grknai/Splash.jpg" />
   </kbd>
   <kbd>
-      <p align="center"> Main Screen  </p>
+      <p align="center"> Main Screen  </p><br />
       <img style="width:150px; height:300px" src="./grknai/Main.jpg" />
   </kbd>
   <kbd>
-    <p align="center"> Chat Screen</p>
+    <p align="center"> Chat Screen</p><br />
     <img style="width:150px; height:300px" src="./grknai/Chat.jpg" />
   </kbd>
 </div>
